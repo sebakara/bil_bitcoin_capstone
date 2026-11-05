@@ -1,0 +1,1 @@
+/Users/mavin/Documents/projects/rust/bil_bitcoin_capstone/target/debug/payment: /Users/mavin/Documents/projects/rust/bil_bitcoin_capstone/src/bin/payment.rs /Users/mavin/Documents/projects/rust/bil_bitcoin_capstone/src/lib.rs
